@@ -60,5 +60,3 @@ Hi, this is Vincent.
 
 Hi, this is SolroSky, TAIWAN.
 
-Hi, this is AlbertHu.
-
